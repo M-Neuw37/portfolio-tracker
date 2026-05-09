@@ -30,10 +30,14 @@ The data from your portfolio is dispayed using `matplotlib.pyplot` to plot two l
 | 30/12/2024 |	AAPL |	0.0198115	| 4 |	USD |
 | 31/12/2024 |	VUAG.L |	0.11178 |	10 |	GBP |
 
-`Date` is the day you bought the stock. 
-`Ticker` is the tickey symbol of the stock (e.g. AAPL for Apple or GOOG for Google). Stocks listed on non-us markets are followed by a small identifier to ensure you are looking for the correct stock, for example VUAG.L is a ETF listed on the London Stock Exchange or AIR.PA is for Airbus which is listed on the Paris exchange. 
-`Quantity` is the amount of shares that were bought in the order (e.g. 5  shares of Apple or 0.75 shares of the VUAG ETF).
-`Amount_spent` is the amount of money you spent on the stock (e.g. you bought £20 worth of shares in VUAG)
+`Date` is the day you bought the stock.  
+
+`Ticker` is the tickey symbol of the stock (e.g. AAPL for Apple or GOOG for Google). Stocks listed on non-us markets are followed by a small identifier to ensure you are looking for the correct stock, for example VUAG.L is a ETF listed on the London Stock Exchange or AIR.PA is for Airbus which is listed on the Paris exchange.  
+
+`Quantity` is the amount of shares that were bought in the order (e.g. 5  shares of Apple or 0.75 shares of the VUAG ETF).  
+
+`Amount_spent` is the amount of money you spent on the stock (e.g. you bought £20 worth of shares in VUAG).  
+
 `Currency` is the currency the stock was bought in/is listed in. 
 
 
