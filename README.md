@@ -19,6 +19,7 @@ The data from your portfolio is dispayed using `matplotlib.pyplot` to plot two l
 | 26/01/2024 | 100  |
 
 `Date` is the date that you deposited the money from your bank account into the brokerage account.
+
 `Total` is the amount of money that you deposited into the brokerage account and then invested. 
 
 ### Portfolio data csv
