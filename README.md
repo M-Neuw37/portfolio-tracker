@@ -4,6 +4,8 @@
 * `TODO` add a YTD in a text box and an all time figure.
 * `TODO` nest parts of the script in functions
 
+The script can be seen viewed in `visualise-portfolio.py`
+
 Keep track of the amount you have invested into the stock market compared to the value of your investments based off live data from `yfinance`.
 
 The data from your portfolio is dispayed using `matplotlib.pyplot` to plot two lines, one shows a cumulative amount of money you have put into the market, and the second line shows the data from `yfinance` to help provide accurate, up-to date data. 
